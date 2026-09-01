@@ -1,3 +1,7 @@
+-- NOTE: staging_athlete_metrics must be populated by importing
+-- sports_injury_detection_dataset.csv via DBeaver's Import Data wizard
+-- before running the INSERT statements below.
+
 -- Create staging table and import csv file to it.
 create Table staging_athlete_metrics (
  Athlete_ID       VARCHAR(50),
