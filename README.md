@@ -1,4 +1,4 @@
-# Athlete Injury Risk Detection Dashboard
+# Sport and Athlete Injury Detection Dashboard
 
   ![Overview Page](images/Sport_Injury_Overview.png)
   ![Overview Page](images/Sport_Injury_Athlete_Details.png)
